@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "2ks6Sjhgji2ir1Pci7woAE",
+    "name" : "mms_test",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-10-17T03:01:53.460Z",
+  "objectRefs" : [ ]
+}
