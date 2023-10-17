@@ -1,0 +1,26 @@
+{
+  "objectInfo" : {
+    "id" : "4F8FtwTmpIQcDkRi6btyol",
+    "name" : "Default",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ {
+        "name" : "IS_DEF_LOC",
+        "value" : "true"
+      } ],
+      "additionalInfo" : {
+        "description" : "Auto-generated Default Project",
+        "contentType" : null,
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-10-17T03:30:03.416Z",
+  "objectRefs" : [ ]
+}
